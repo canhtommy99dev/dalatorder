@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "965872360354",
+    "firebase_url": "https://dalatshipmrmanhlong-default-rtdb.firebaseio.com",
+    "project_id": "dalatshipmrmanhlong",
+    "storage_bucket": "dalatshipmrmanhlong.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965872360354:android:7d17d0fa1276259a5070fb",
+        "android_client_info": {
+          "package_name": "com.application.dalat_ship_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965872360354-njefamg8aucapq9fejbhp6djs4qqdp4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwbMpn3GV6ysWWhDJPROBXwPzm7-4Prgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965872360354-njefamg8aucapq9fejbhp6djs4qqdp4h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "965872360354-1qboi3nb98cn1eka8eb01sle66emgckh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.application.dalatorder"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965872360354:android:7267f77e144df0215070fb",
+        "android_client_info": {
+          "package_name": "com.application.dalatorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965872360354-njefamg8aucapq9fejbhp6djs4qqdp4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwbMpn3GV6ysWWhDJPROBXwPzm7-4Prgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965872360354-njefamg8aucapq9fejbhp6djs4qqdp4h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "965872360354-1qboi3nb98cn1eka8eb01sle66emgckh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.application.dalatorder"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
