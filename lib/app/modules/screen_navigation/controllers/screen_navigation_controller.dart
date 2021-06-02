@@ -12,20 +12,11 @@ class ScreenNavigationController extends GetxController {
   final count = 0.obs;
 
   var tabIndex = 0;
-  GlobalKey _bottomNavigationKey = GlobalKey();
 
-  // void changeTabIndex(int index) {
-  //   tabIndex = index;
-  //   update();
-  // }
-
-  List listContainer = [
-    Tab1View(),
-    Tab2View(),
-    Tab3View(),
-    Tab4View(),
-    Tab5View()
-  ];
+  void changeTabIndex(int index) {
+    tabIndex = index;
+    update();
+  }
 
   @override
   void onInit() {

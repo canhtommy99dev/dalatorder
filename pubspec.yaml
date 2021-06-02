@@ -19,13 +19,13 @@ dependencies:
 #  firebase_storage: ^8.0.5
   permission_handler: ^7.1.0
   carousel_slider: ^3.0.0
-  curved_navigation_bar: ^0.3.7
   dio: ^4.0.0
 #  google_maps_flutter: ^2.0.3
   geolocator: ^7.0.3
   badges: ^1.2.0
   flutter: 
     sdk: flutter
+  cached_network_image: ^3.0.0
 
 dev_dependencies: 
   flutter_test: 
